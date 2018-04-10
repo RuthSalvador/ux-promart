@@ -1,5 +1,29 @@
 * {
   font-family: 'Montserrat', sans-serif;
+  font-size: 21px;
+  line-height: 3.5rem;
+}
+
+h1, h2, h3, h6, h1>span {
+  font-family: 'Karla', sans-serif;
+  font-weight: bold;
+  margin-top: 0;
+  margin-bottom: 0;
+}
+
+h1, h1>span {
+  margin-top: 70px;
+  padding-bottom: 35px;
+  font-size: 7.5rem;
+}
+
+h2 {
+  margin-bottom: 49px;
+  font-size: 4.5rem;
+}
+
+h6 {
+  margin-top: 70px;
 }
 
 .text-principal {
@@ -21,4 +45,27 @@
 .text-underline {
   text-decoration: underline;
   font-weight: bold;
+}
+
+.bg-dark {
+  background-color: #474747;
+  color: #ffffff;
+}
+
+.bg-open {
+  background-color: #f6f6f6;
+  color: #474747;
+}
+
+.bg {
+  padding-top: 49px;
+  padding-bottom: 63px;
+}
+
+footer {
+  padding: 20px;
+}
+
+.bg-home {
+  margin-top: 77px;
 }
