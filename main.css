@@ -5,3 +5,20 @@
 .text-principal {
   color: #ff672d;
 }
+
+.text-blue {
+  color: #2aabe3;
+}
+
+.text-green {
+  color: #55de94;
+}
+
+.text-orange {
+  color: #f17a3b;
+}
+
+.text-underline {
+  text-decoration: underline;
+  font-weight: bold;
+}
