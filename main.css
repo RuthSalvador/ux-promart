@@ -30,6 +30,10 @@ h6 {
   color: #ff672d;
 }
 
+.text-principal:hover {
+  color: #ffffff;
+}
+
 .text-blue {
   color: #2aabe3;
 }
